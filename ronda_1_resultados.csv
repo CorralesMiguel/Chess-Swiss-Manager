@@ -1,0 +1,257 @@
+ranking_inicial,nombres,apellidos,federacion,elo,sexo,anio_nacimiento,puntos,ronda_1,desempate_buchholz,desempate_buchholz_cortado,victorias_negras
+12,Arjun,Erigaisi,IND,2746,M,2003,1,1b140,0,0,1
+16,Quang Liem,Le,VIE,2732,M,1991,1,1b144,0,0,1
+18,Sarin,Nihal,IND,2720,M,2004,1,1b146,0,0,1
+20,Levon,Aronian,USA,2719,M,1982,1,1b148,0,0,1
+28,Maxime,Vachier-Lagrave,FRA,2707,M,1990,1,1b156,0,0,1
+34,Hao,Wang,CHN,2694,M,1989,1,1b162,0,0,1
+38,Teimour,Radjabov,AZE,2689,M,1987,1,1b166,0,0,1
+44,Chithambaram,Aravindh,IND,2673,M,1999,1,1b172,0,0,1
+52,Volodar,Murzin,FID,2663,M,2006,1,1b180,0,0,1
+64,Alexander,Morozevich,RUS,2654,M,1977,1,1b192,0,0,1
+66,Vladislav,Artemiev,RUS,2653,M,1998,1,1b194,0,0,1
+68,Nils,Grandelius,SWE,2651,M,1993,1,1b196,0,0,1
+72,Maxim,Matlakov,RUS,2647,M,1991,1,1b200,0,0,1
+74,Rasmus,Svane,GER,2645,M,1997,1,1b202,0,0,1
+78,Etienne,Bacrot,FRA,2641,M,1983,1,1b206,0,0,1
+84,Max,Warmerdam,NED,2635,M,2000,1,1b212,0,0,1
+88,Vasyl,Ivanchuk,UKR,2631,M,1969,1,1b216,0,0,1
+98,Johan-Sebastian,Christiansen,NOR,2621,M,1998,1,1b226,0,0,1
+100,Pouya,Idani,IRI,2619,M,1995,1,1b228,0,0,1
+102,Nijat,Abasov,AZE,2617,M,1995,1,1b230,0,0,1
+106,Shamsiddin,Vokhidov,UZB,2613,M,2002,1,1b234,0,0,1
+116,Thai Dai Van,Nguyen,CZE,2603,M,2001,1,1b244,0,0,1
+120,Pawel,Teclaf,POL,2599,M,2003,1,1b248,0,0,1
+122,Dmitrij,Kollars,GER,2597,M,1999,1,1b250,0,0,1
+124,Niclas,Huschenbeth,GER,2596,M,1992,1,1b252,0,0,1
+129,Sandro,Mareco,ARG,2591,M,1987,1,1b1,0,0,1
+133,Faustino,Oro,ARG,2587,M,2013,1,1b5,0,0,1
+135,Luis Paulo,Supi,BRA,2585,M,1996,1,1b7,0,0,1
+139,Julio,Granda Zuniga,PER,2581,M,1967,1,1b11,0,0,1
+141,Emilio,Cordova,PER,2579,M,1991,1,1b13,0,0,1
+149,Gilberto,Hernandez Guerrero,MEX,2571,M,1970,1,1b21,0,0,1
+151,Carlos Daniel,Albornoz Cabrera,CUB,2569,M,2000,1,1b23,0,0,1
+155,Lazaro,Bruzon Batista,USA,2565,M,1982,1,1b27,0,0,1
+173,Mustafa,Yilmaz,TUR,2550,M,1992,1,1b45,0,0,1
+175,Emre,Can,TUR,2548,M,1990,1,1b47,0,0,1
+181,Denis,Kadric,MNE,2543,M,1995,1,1b53,0,0,1
+185,Zhongyi,Tan,CHN,2540,F,1991,1,1b57,0,0,1
+191,Milos,Perunovic,SRB,2534,M,1984,1,1b63,0,0,1
+197,Ioannis,Papaioannou,GRE,2528,M,1976,1,1b69,0,0,1
+203,Tamir,Nabaty,ISR,2523,M,1991,1,1b75,0,0,1
+207,Ori,Kobo,ISR,2519,M,1997,1,1b79,0,0,1
+209,Anna,Muzychuk,UKR,2518,F,1990,1,1b81,0,0,1
+215,Andrew,Woodward,USA,2512,M,2010,1,1b87,0,0,1
+217,Brandon,Jacobson,USA,2510,M,2003,1,1b89,0,0,1
+229,Nikolay,Noritsyn,CAN,2501,M,1991,1,1b101,0,0,1
+231,Gawain,Jones,ENG,2499,M,1987,1,1b103,0,0,1
+237,Daniel,Fernandez,ENG,2494,M,1995,1,1b109,0,0,1
+239,Vaishali,Rameshbabu,IND,2492,F,2001,1,1b111,0,0,1
+245,Harika,Dronavalli,IND,2482,F,1991,1,1b117,0,0,1
+247,Carissa,Yip,USA,2469,F,2003,1,1b119,0,0,1
+255,Alexandra,Kosteniuk,SUI,2440,F,1984,1,1b127,0,0,1
+9,Yi,Wei,CHN,2761,M,1999,1,1w137,0,0,0
+19,M. Amin,Tabatabaei,IRI,2720,M,2001,1,1w147,0,0,0
+31,Nodirbek,Yakubboev,UZB,2701,M,2002,1,1w159,0,0,0
+33,Veselin,Topalov,BUL,2695,M,1975,1,1w161,0,0,0
+35,Santosh Gujrathi,Vidit,IND,2693,M,1994,1,1w163,0,0,0
+39,Awonder,Liang,USA,2685,M,2003,1,1w167,0,0,0
+41,Andrey,Esipenko,RUS,2683,M,2002,1,1w169,0,0,0
+49,Pavel,Eljanov,UKR,2665,M,1983,1,1w177,0,0,0
+55,David,Anton Guijarro,ESP,2661,M,1995,1,1w183,0,0,0
+59,Frederik,Svane,GER,2657,M,2004,1,1w187,0,0,0
+65,Radoslaw,Wojtaszek,POL,2654,M,1987,1,1w193,0,0,0
+67,Alexander,Grischuk,RUS,2652,M,1983,1,1w195,0,0,0
+71,Shant,Sargsyan,ARM,2648,M,2002,1,1w199,0,0,0
+77,Anton,Korobov,UKR,2642,M,1985,1,1w205,0,0,0
+83,Ediz,Gurel,TUR,2636,M,2008,1,1w211,0,0,0
+85,Abhimanyu,Mishra,USA,2634,M,2009,1,1w213,0,0,0
+91,Alexei,Shirov,ESP,2628,M,1972,1,1w219,0,0,0
+97,Aryan,Tari,NOR,2622,M,1999,1,1w225,0,0,0
+99,Bardiya,Daneshvar,IRI,2620,M,2006,1,1w227,0,0,0
+107,Jakhongir,Vakhidov,UZB,2612,M,1995,1,1w235,0,0,0
+115,David,Navara,CZE,2604,M,1985,1,1w243,0,0,0
+134,Alexandr,Fier,BRA,2586,M,1988,1,1w6,0,0,0
+136,Krikor Sevag,Mekhitarian,BRA,2584,M,1986,1,1w8,0,0,0
+138,Rodrigo,Vasquez Schroeder,CHI,2582,M,1969,1,1w10,0,0,0
+152,Luis Ernesto,Quesada Perez,CUB,2568,M,1999,1,1w24,0,0,0
+154,Omar,Almeida Quintana,CUB,2566,M,1981,1,1w26,0,0,0
+160,Sergio,Barrientos,COL,2560,M,1986,1,1w32,0,0,0
+164,Joshua,Ruiz Castillo,COL,2557,M,1997,1,1w36,0,0,0
+170,Jaime,Cuartas,COL,2552,M,1975,1,1w42,0,0,0
+174,Vahap,Sanal,TUR,2549,M,1998,1,1w46,0,0,0
+178,Aleksandra,Goryachkina,FID,2545,F,1998,1,1w50,0,0,0
+184,Zdenko,Kozul,CRO,2540,M,1966,1,1w56,0,0,0
+186,Mladen,Palac,CRO,2539,M,1971,1,1w58,0,0,0
+188,Aleksandar,Indjic,SRB,2537,M,1995,1,1w60,0,0,0
+190,Ivan,Ivanisevic,SRB,2535,M,1977,1,1w62,0,0,0
+198,Dimitrios,Mastrovasilis,GRE,2527,M,1983,1,1w70,0,0,0
+208,Ahmed,Adly,EGY,2518,M,1987,1,1w80,0,0,0
+218,Mariya,Muzychuk,UKR,2510,F,1992,1,1w90,0,0,0
+222,Arthur,Guo,USA,2507,M,2006,1,1w94,0,0,0
+238,Ameet,Ghasi,ENG,2493,M,1987,1,1w110,0,0,0
+242,Keith,Arkell,ENG,2490,M,1961,1,1w114,0,0,0
+254,Zhansaya,Abdumalik,KAZ,2445,F,2000,1,1w126,0,0,0
+2,Hikaru,Nakamura,USA,2792,M,1987,0.5,0.5b130,0.5,0.5,0
+3,Fabiano,Caruana,USA,2783,M,1992,0.5,0.5w131,0.5,0.5,0
+4,Javokhir,Sindarov,UZB,2782,M,2005,0.5,0.5b132,0.5,0.5,0
+14,Viswanathan,Anand,IND,2739,M,1969,0.5,0.5b142,0.5,0.5,0
+15,Leinier,Dominguez Perez,USA,2732,M,1983,0.5,0.5w143,0.5,0.5,0
+17,Liren,Ding,CHN,2723,M,1992,0.5,0.5w145,0.5,0.5,0
+22,Ian,Nepomniachtchi,RUS,2719,M,1990,0.5,0.5b150,0.5,0.5,0
+25,Dmitry,Andreikin,FID,2714,M,1990,0.5,0.5w153,0.5,0.5,0
+30,Yangyi,Yu,CHN,2705,M,1994,0.5,0.5b158,0.5,0.5,0
+29,Parham,Maghsoodloo,IRI,2705,M,2000,0.5,0.5w157,0.5,0.5,0
+37,Vladimir,Fedoseev,SLO,2691,M,1995,0.5,0.5w165,0.5,0.5,0
+40,Samuel,Sevian,USA,2684,M,2000,0.5,0.5b168,0.5,0.5,0
+43,Alexey,Sarana,SRB,2679,M,2000,0.5,0.5w171,0.5,0.5,0
+48,Haik M.,Martirosyan,ARM,2669,M,2000,0.5,0.5b176,0.5,0.5,0
+51,Peter,Leko,HUN,2663,M,1979,0.5,0.5w179,0.5,0.5,0
+54,Mahammad,Muradli,AZE,2662,M,2003,0.5,0.5b182,0.5,0.5,0
+61,Rustam,Kasimdzhanov,UZB,2655,M,1979,0.5,0.5w189,0.5,0.5,0
+73,Samuel,Shankland,USA,2646,M,1991,0.5,0.5w201,0.5,0.5,0
+76,Ruslan,Ponomariov,UKR,2643,M,1983,0.5,0.5b204,0.5,0.5,0
+82,Alexander,Donchenko,GER,2637,M,1998,0.5,0.5b210,0.5,0.5,0
+86,S.L.,Narayanan,IND,2633,M,1998,0.5,0.5b214,0.5,0.5,0
+92,Michael,Adams,ENG,2627,M,1971,0.5,0.5b220,0.5,0.5,0
+93,Jules,Moussard,FRA,2626,M,1995,0.5,0.5w221,0.5,0.5,0
+95,Erwin,L'Ami,NED,2624,M,1985,0.5,0.5w223,0.5,0.5,0
+96,Benjamin,Gledura,HUN,2623,M,1999,0.5,0.5b224,0.5,0.5,0
+104,Vasif,Durarbayli,AZE,2615,M,1992,0.5,0.5b232,0.5,0.5,0
+105,Eltaj,Safarli,AZE,2614,M,1992,0.5,0.5w233,0.5,0.5,0
+108,Mukhammadzokhid,Suyarov,UZB,2611,M,2009,0.5,0.5b236,0.5,0.5,0
+112,Kirill,Shevchenko,ROU,2607,M,2002,0.5,0.5b240,0.5,0.5,0
+113,Constantin,Lupulescu,ROU,2606,M,1984,0.5,0.5w241,0.5,0.5,0
+118,Kacper,Piorun,POL,2601,M,1991,0.5,0.5b246,0.5,0.5,0
+121,Szymon,Gumularz,POL,2598,M,2001,0.5,0.5w249,0.5,0.5,0
+123,Yifan,Hou,CHN,2596,F,1994,0.5,0.5w251,0.5,0.5,0
+125,Liviu-Dieter,Nisipeanu,ROU,2595,M,1976,0.5,0.5w253,0.5,0.5,0
+128,Andres,Rodriguez Vila,URU,2592,M,1973,0.5,0.5b256,0.5,0.5,0
+130,Alan,Pichot,ESP,2590,M,1998,0.5,0.5w2,0.5,0.5,0
+131,Fernando,Peralta,ARG,2589,M,1979,0.5,0.5b3,0.5,0.5,0
+132,Diego,Flores,ARG,2588,M,1982,0.5,0.5w4,0.5,0.5,0
+142,Cristhian,Cruz,PER,2578,M,1992,0.5,0.5w14,0.5,0.5,0
+143,Jaime,Santos Latasa,ESP,2577,M,1996,0.5,0.5b15,0.5,0.5,0
+145,Eduardo,Iturrizaga Bonelli,ESP,2575,M,1989,0.5,0.5b17,0.5,0.5,0
+150,Juan Carlos,Gonzalez Zamora,MEX,2570,M,1968,0.5,0.5w22,0.5,0.5,0
+153,Yasser,Quesada Perez,CUB,2567,M,1992,0.5,0.5b25,0.5,0.5,0
+157,Neuris,Delgado Ramirez,PAR,2563,M,1981,0.5,0.5b29,0.5,0.5,0
+158,Axel,Bachmann,PAR,2562,M,1989,0.5,0.5w30,0.5,0.5,0
+165,Cristhian Camilo,Rios,COL,2556,M,1993,0.5,0.5b37,0.5,0.5,0
+168,Wenjun,Ju,CHN,2553,F,1991,0.5,0.5w40,0.5,0.5,0
+171,Tingjie,Lei,CHN,2552,F,1997,0.5,0.5b43,0.5,0.5,0
+176,Dragan,Solak,TUR,2547,M,1980,0.5,0.5w48,0.5,0.5,0
+179,Evgeny,Tomashevsky,RUS,2545,M,1987,0.5,0.5b51,0.5,0.5,0
+182,Ante,Brkic,CRO,2542,M,1988,0.5,0.5w54,0.5,0.5,0
+189,Robert,Markus,SRB,2536,M,1983,0.5,0.5b61,0.5,0.5,0
+201,Evgeny,Postny,ISR,2525,M,1981,0.5,0.5b73,0.5,0.5,0
+204,Ilia,Smirin,ISR,2522,M,1968,0.5,0.5w76,0.5,0.5,0
+210,Bassem,Amin,EGY,2517,M,1988,0.5,0.5w82,0.5,0.5,0
+214,Daniel,Cawdery,RSA,2513,M,1982,0.5,0.5w86,0.5,0.5,0
+220,Brewington,Hardaway,USA,2508,M,2009,0.5,0.5w92,0.5,0.5,0
+221,Koneru,Humpy,IND,2508,F,1987,0.5,0.5b93,0.5,0.5,0
+223,Eric,Hansen,CAN,2506,M,1992,0.5,0.5b95,0.5,0.5,0
+224,Aman,Hambleton,CAN,2505,M,1992,0.5,0.5w96,0.5,0.5,0
+233,Luke,McShane,ENG,2498,M,1984,0.5,0.5b105,0.5,0.5,0
+232,Nana,Dzagnidze,GEO,2498,F,1987,0.5,0.5w104,0.5,0.5,0
+236,Ravi,Haria,ENG,2495,M,1999,0.5,0.5w108,0.5,0.5,0
+240,Shreyas,Royal,ENG,2492,M,2009,0.5,0.5w112,0.5,0.5,0
+241,Lorin,D'Costa,ENG,2491,M,1984,0.5,0.5b113,0.5,0.5,0
+246,Polina,Shuvalova,FID,2475,F,2001,0.5,0.5w118,0.5,0.5,0
+249,Nino,Batsiashvili,GEO,2461,F,1987,0.5,0.5b121,0.5,0.5,0
+251,Alina,Kashlinskaya,POL,2456,F,1993,0.5,0.5b123,0.5,0.5,0
+253,Gunay,Mammadzada,AZE,2448,F,2000,0.5,0.5b125,0.5,0.5,0
+256,Irina,Krush,USA,2393,F,1983,0.5,0.5w128,0.5,0.5,0
+1,Magnus,Carlsen,NOR,2823,M,1990,0,0w129,1,1,0
+5,Nodirbek,Abdusattorov,UZB,2772,M,2004,0,0w133,1,1,0
+6,Wesley,So,USA,2771,M,1993,0,0b134,1,1,0
+7,Rameshbabu,Praggnanandhaa,IND,2763,M,2005,0,0w135,1,1,0
+8,Vincent,Keymer,GER,2761,M,2004,0,0b136,1,1,0
+10,Alireza,Firouzja,FRA,2757,M,2003,0,0b138,1,1,0
+11,Anish,Giri,NED,2747,M,1994,0,0w139,1,1,0
+13,Jan-Krzysztof,Duda,POL,2741,M,1998,0,0w141,1,1,0
+21,Yagiz Kaan,Erdogmus,TUR,2719,M,2011,0,0w149,1,1,0
+23,Richard,Rapport,HUN,2718,M,1996,0,0w151,1,1,0
+24,Jorden,Van Foreest,NED,2715,M,1999,0,0b152,1,1,0
+26,Dommaraju,Gukesh,IND,2710,M,2006,0,0b154,1,1,0
+27,Shakhriyar,Mamedyarov,AZE,2709,M,1985,0,0w155,1,1,0
+32,Hans Moke,Niemann,USA,2697,M,2003,0,0b160,1,1,0
+36,Aydin,Suleymanli,AZE,2692,M,2005,0,0b164,1,1,0
+42,Venkatesh,Pranav,IND,2679,M,2006,0,0b170,1,1,0
+45,Munirethinam,Pranesh,IND,2673,M,2006,0,0w173,1,1,0
+46,Matthias,Bluebaum,GER,2671,M,1997,0,0b174,1,1,0
+47,Jeffery,Xiong,USA,2671,M,2000,0,0w175,1,1,0
+50,David W L,Howell,ENG,2665,M,1990,0,0b178,1,1,0
+53,Nikita,Vitiugov,ENG,2663,M,1987,0,0w181,1,1,0
+56,Bogdan-Daniel,Deac,ROU,2661,M,2001,0,0b184,1,1,0
+57,Pentala,Harikrishna,IND,2659,M,1986,0,0w185,1,1,0
+58,Murali,Karthikeyan,IND,2658,M,1999,0,0b186,1,1,0
+60,Grigoriy,Oparin,USA,2656,M,1997,0,0b188,1,1,0
+62,Daniil,Dubov,RUS,2654,M,1996,0,0b190,1,1,0
+63,Jose Eduardo,Martinez Alcantara,MEX,2654,M,1999,0,0w191,1,1,0
+69,Xiangzhi,Bu,CHN,2650,M,1985,0,0w197,1,1,0
+70,Ray,Robson,USA,2649,M,1994,0,0b198,1,1,0
+75,Ivan,Saric,CRO,2644,M,1990,0,0w203,1,1,0
+79,Jonas Buhl,Bjerre,DEN,2640,M,2004,0,0w207,1,1,0
+80,Francisco,Vallejo Pons,ESP,2639,M,1982,0,0b208,1,1,0
+81,Gabriel,Sargissian,ARM,2638,M,1983,0,0w209,1,1,0
+87,Raunak,Sadhwani,IND,2632,M,2005,0,0w215,1,1,0
+89,Gata,Kamsky,USA,2630,M,1974,0,0w217,1,1,0
+90,Boris,Gelfand,ISR,2629,M,1968,0,0b218,1,1,0
+94,Laurent,Fressinet,FRA,2625,M,1981,0,0b222,1,1,0
+101,Rauf,Mamedov,AZE,2618,M,1988,0,0w229,1,1,0
+103,Gadir,Guseinov,AZE,2616,M,1986,0,0w231,1,1,0
+109,Baadur,Jobava,GEO,2610,M,1983,0,0w237,1,1,0
+110,Ivan,Cheparinov,BUL,2609,M,1986,0,0b238,1,1,0
+111,Arkadi,Naiditsch,BUL,2608,M,1985,0,0w239,1,1,0
+114,Mircea-Emilian,Parligras,ROU,2605,M,1980,0,0b242,1,1,0
+117,Viktor,Laznicka,CZE,2602,M,1988,0,0w245,1,1,0
+119,Mateusz,Bartel,POL,2600,M,1985,0,0w247,1,1,0
+126,Daniel,Fridman,GER,2594,M,1976,0,0b254,1,1,0
+127,Georg,Meier,URU,2593,M,1987,0,0w255,1,1,0
+137,Cristobal,Henriquez Villagra,CHI,2583,M,1996,0,0b9,1,1,0
+140,Jorge,Cori,PER,2580,M,1995,0,0w12,1,1,0
+144,Miguel,Illescas Cordoba,ESP,2576,M,1965,0,0w16,1,1,0
+146,Daniil,Yuffa,ESP,2574,M,1997,0,0w18,1,1,0
+147,Maksim,Chigaev,ESP,2573,M,1996,0,0b19,1,1,0
+148,Manuel,Leon Hoyos,MEX,2572,M,1989,0,0w20,1,1,0
+156,Yuniesky,Quesada Perez,USA,2564,M,1984,0,0w28,1,1,0
+159,Jose Fernando,Cubas,PAR,2561,M,1981,0,0b31,1,1,0
+162,Jiner,Zhu,CHN,2559,F,2002,0,0w34,1,1,0
+161,Santiago,Avila Pavas,COL,2559,M,2004,0,0b33,1,1,0
+163,Esteban,Valderrama Quiceno,COL,2558,M,1993,0,0b35,1,1,0
+166,Alonso,Zapata,COL,2555,M,1958,0,0w38,1,1,0
+167,Roberto,Garcia Pantoja,COL,2554,M,1992,0,0b39,1,1,0
+169,Sebastian Felipe,Sanchez,COL,2553,M,1989,0,0b41,1,1,0
+172,Alder,Escobar Forero,COL,2551,M,1977,0,0w44,1,1,0
+177,Alexander,Ipatov,TUR,2546,M,1993,0,0b49,1,1,0
+180,Nikita,Petrov,MNE,2544,M,1996,0,0w52,1,1,0
+183,Marin,Bosiocic,CRO,2541,M,1988,0,0b55,1,1,0
+187,Velimir,Ivic,SRB,2538,M,2002,0,0b59,1,1,0
+192,Luka,Budisavljevic,SRB,2533,M,2004,0,0w64,1,1,0
+193,Kiril,Georgiev,BUL,2532,M,1965,0,0b65,1,1,0
+194,Momchil,Nikolov,BUL,2531,M,1985,0,0w66,1,1,0
+195,Martin,Petrov,BUL,2530,M,2000,0,0b67,1,1,0
+196,Hristos,Banikas,GRE,2529,M,1978,0,0w68,1,1,0
+199,Stamatis,Kourkoulos-Arditis,GRE,2526,M,1998,0,0b71,1,1,0
+200,Bibisara,Assaubayeva,KAZ,2525,F,2004,0,0w72,1,1,0
+202,Maxim,Rodshtein,ISR,2524,M,1989,0,0w74,1,1,0
+205,Emil,Sutovsky,ISR,2521,M,1977,0,0b77,1,1,0
+206,Avital,Boruchovsky,ISR,2520,M,1997,0,0w78,1,1,0
+211,Adham,Fawzy,EGY,2516,M,2000,0,0b83,1,1,0
+212,Bilel,Bellahcene,ALG,2515,M,1998,0,0w84,1,1,0
+213,Kenny,Solomon,RSA,2514,M,1979,0,0b85,1,1,0
+216,Christopher,Yoo,USA,2511,M,2006,0,0w88,1,1,0
+219,Kirk,Ghazarian,USA,2509,M,2006,0,0b91,1,1,0
+225,Kateryna,Lagno,RUS,2505,F,1989,0,0b97,1,1,0
+226,Razvan,Preotu,CAN,2504,M,1999,0,0w98,1,1,0
+227,Shawn,Rodrigue-Lemieux,CAN,2503,M,2004,0,0b99,1,1,0
+228,Evgeny,Bareev,CAN,2502,M,1966,0,0w100,1,1,0
+230,Anton,Kovalyov,CAN,2500,M,1992,0,0w102,1,1,0
+234,Matthew,Sadler,ENG,2497,M,1974,0,0w106,1,1,0
+235,Nigel,Short,ENG,2496,M,1965,0,0b107,1,1,0
+243,Mark,Hebden,ENG,2489,M,1958,0,0b115,1,1,0
+244,Divya,Deshmukh,IND,2488,F,2005,0,0w116,1,1,0
+248,Sarasadat,Khademalsharieh,ESP,2465,F,1997,0,0w120,1,1,0
+250,Elisabeth,Paehtz,GER,2458,F,1985,0,0w122,1,1,0
+252,Alice,Lee,USA,2454,F,2009,0,0w124,1,1,0
